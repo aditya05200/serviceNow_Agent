@@ -1,0 +1,3 @@
+time,incident,matched_article,confidence,status
+2026-10-31T11:40:18,user cannot connect to vpn,VPN_Login,High,Resolved
+2026-10-31T13:24:04,I am unable to launch Citrix Workspace. The application closes immediately after opening and sometimes shows a black screen after login. How can I fix this issue? ,Citrix_Issue,High,Resolved
